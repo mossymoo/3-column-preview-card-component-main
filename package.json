@@ -1,0 +1,22 @@
+{
+  "name": "3-column-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "FrontendMentor Exercise",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mossymoo/3-column-preview-card-component-main.git"
+  },
+  "author": "Estevez Ben Lajamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mossymoo/3-column-preview-card-component-main/issues"
+  },
+  "homepage": "https://github.com/mossymoo/3-column-preview-card-component-main#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  }
+}
